@@ -1,0 +1,4 @@
+output.elasticsearch:
+  hosts: ["https://elasticsearch:9200"]
+  #username: "filebeat_internal"
+  #password: "YOUR_PASSWORD" 
